@@ -161,7 +161,7 @@ export const navBarConfig: NavBarConfig = {
 					name: "统计",
 					url: "https://analysis.zzzero.site",
 					external: true,
-					icon: "fa6-brands:github",
+					icon: "fa6-brands:blogger",
 				},
 			],
 		},
@@ -174,7 +174,7 @@ export const navBarConfig: NavBarConfig = {
 		{
 			name: "朋友",
 			url: "/friends/",
-			icon: "material-symbols:link",
+			icon: "material-symbols:travel-explore",
 			children: [
 				LinkPreset.Friends,
 				{
