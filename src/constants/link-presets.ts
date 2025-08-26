@@ -7,7 +7,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		name: i18n(I18nKey.home),
 		url: "https://zzzero.site",
 		external: true,
-		icon: "material-symbols:home",
+		// icon: "material-symbols:home",
 	},
 	[LinkPreset.About]: {
 		name: i18n(I18nKey.about),
