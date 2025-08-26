@@ -4,7 +4,7 @@ import { LinkPreset, type NavBarLink } from "@/types/config";
 
 export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 	[LinkPreset.Home]: {
-		name: i18n(I18nKey.home),
+		name: "个人主页",
 		url: "https://zzzero.site",
 		external: true,
 		icon: "material-symbols:home",
