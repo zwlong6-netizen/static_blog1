@@ -181,6 +181,7 @@ export const navBarConfig: NavBarConfig = {
 					name: "开往",
 					url: "https://www.travellings.cn/go.html",
 					external: true,
+					icon: "material-symbols:travel-explore",
 				},
 			],
 		},
@@ -189,7 +190,8 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	// avatar: "assets/images/avatar.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "https://s1.imagehub.cc/images/2025/08/22/5aeabd5d7868bc9bc70af208609c7b50.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "ZhouZhou",
 	bio: "记录学习、生活、技术",
 	links: [
