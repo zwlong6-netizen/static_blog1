@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "b88a5c0e32ba9ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9f1d67692f2d03",
+        "type": "split",
+        "children": [
+          {
+            "id": "ab0e3f2effa13ad9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e5c0af6b15ca142",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "posts/2024-09-19/git相关.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "git相关"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9616397752f676a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97b3825f786c1f45",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/zwl/Desktop/git_project_new/static_blog/src/content",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：zwl@Mmmmmac:~/Desktop/git_project_new/static_blog/src/content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71c84ab9e0c156e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2431f409860d7296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a1252af57cfbd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "64d8e04877bd98c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dc201284f282540c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a156a0a604aa1b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2407ebcaf8a6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebfa2bf759d605e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templete/blog_templete_templater.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "blog_templete_templater 的反向链接列表"
+            }
+          },
+          {
+            "id": "e71aca27618de8e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templete/blog_templete_templater.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "blog_templete_templater 的出链列表"
+            }
+          },
+          {
+            "id": "d04bb9fd38b6629e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b88e6437ef87bd67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templete/blog_templete_templater.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "blog_templete_templater 的大纲"
+            }
+          },
+          {
+            "id": "3aa3794ed47ac95b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "quickadd:QuickAdd": false,
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "97b3825f786c1f45",
+  "lastOpenFiles": [
+    "posts/2024-09-19/git相关.md",
+    "templete/blog_templete.md",
+    "posts/2025-08-26/test3.md",
+    "posts/2025-08-26/py做数据预处理相关.md",
+    "posts/2025-08-26/test4.md",
+    "posts/2024-09-19/assets/Pasted image 20250826100551.png",
+    "posts/2024-09-19/assets/Pasted image 20250826100533.png",
+    "posts/2024-09-19/assets",
+    "posts/2024-09-19",
+    "posts/2025-08-26/粗略了解MySQL锁.md",
+    "posts/2025-08-26/粗略了解MySQL事务.md",
+    "posts/2025-08-26/docker总结.md",
+    "posts/2025-08-26/逻辑回归模型解决分类问题.md",
+    "posts/2025-08-26/orbstack管理虚拟机.md",
+    "posts/2025-08-26/粗略了解MySQL查询过程？.md",
+    "posts/2025-08-26/MySQL如何存储数据？.md",
+    "posts/2025-08-26/线性回归模型解决回归问题.md",
+    "posts/2025-08-26/ML基础.md",
+    "posts/2025-08-24/文档模版2.md",
+    "posts/2025-08-24/文档模版1.md",
+    "posts/2025-08-25/test2.md",
+    "posts/2025-08-25/twikoo搭建.md",
+    "posts/2025-08-26",
+    "posts/2025-08-25",
+    "posts/2025-08-24/assets/Pasted image 20250824232011.png",
+    "posts/2025-08-24/assets",
+    "posts/2025-08-24",
+    "posts/2025-08-24/文档模版3.md",
+    "posts/2025-08-24/assets/Pasted image 20250824231602.png",
+    "posts/2025-08-24/assets/Pasted image 20250824225640.png",
+    "posts/2025-08-24/assets/Pasted image 20250824225629.png",
+    "posts/2025-08-24/assets/Pasted image 20250824225554.png",
+    "posts/2025-08-24/assets/Pasted image 20250824225242.png",
+    "posts/2025-08-24/assets/Pasted image 20250824224347.png",
+    "posts/2025-08-24/assets/Pasted image 20250824224313.png",
+    "文档模版1.md",
+    "spec/about.md",
+    "spec/friends.md",
+    "posts/文档模版22.md",
+    "posts/2025-08-24/test1.md",
+    "posts/2025-08-24/1.md",
+    "posts/2025-08-24/2.md",
+    "templete/update-timestamp-user-script.js",
+    "templete/update-timestamp.js"
+  ]
+}

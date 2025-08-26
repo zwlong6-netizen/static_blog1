@@ -1,0 +1,17 @@
+{
+  "frontmatterProperty": "updated",
+  "createdDateProperty": "published",
+  "momentFormat": "yyyy-MM-DD HH:mm:ss",
+  "storeHistoryLog": false,
+  "historyNewestFirst": false,
+  "historyMaxItems": 0,
+  "excludedFolders": [
+    "/templete"
+  ],
+  "useKeyupEvents": true,
+  "onlyUpdateExisting": false,
+  "timeout": 1,
+  "excludeField": "exclude_modified_update",
+  "appendField": "append_modified_update",
+  "appendMaximumFrequency": "day"
+}

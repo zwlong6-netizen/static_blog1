@@ -1,0 +1,11 @@
+{
+  "lockedNotes": [
+    "templete/blog_templete.md",
+    "posts/2024-09-19/git相关.md"
+  ],
+  "mobileNotificationMaxLength": 18,
+  "desktopNotificationMaxLength": 22,
+  "showFileExplorerIcons": true,
+  "showStatusBarButton": true,
+  "showNotifications": true
+}

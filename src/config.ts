@@ -73,7 +73,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "主页", // 主页横幅主标题
+			title: "ZhouZhou's Blog", // 主页横幅主标题
 
 			subtitle: [
 				"记录学习、生活、技术",

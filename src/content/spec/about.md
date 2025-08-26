@@ -1,54 +1,53 @@
-# About This Site
+# 关于我：一个25岁的CS爱好者的自我介绍
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+大家好！我是zhouzhou，一个25岁的年轻人，目前专注于计算机科学与技术领域。我出生于2000年，那是一个科技迅猛发展的时代，从小我就对计算机和数字世界充满了好奇。今天，我想通过这个个人博客的介绍页面，来分享一下我的故事、经历和对未来的展望。如果你对编程、AI、科技趋势感兴趣，或许我们会有很多共同话题。欢迎随时留言交流！
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+## 我的成长背景
 
-## 🌟 Theme Features
+我出生在一个普通的农村家庭，父母都是农民，他们从小就鼓励我探索未知的世界。小时候，我最喜欢的玩具不是积木或玩具车，而是家里的老式电脑。那是上世纪90年代末的机器，运行着Windows 98系统。我记得第一次用鼠标点击图标时，那种兴奋的感觉至今难忘。从那时起，我就迷上了计算机的世界。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+中学时代，我开始自学编程。最初是从BASIC语言入手，那时候网上资源还不多，我主要是通过图书馆借来的旧书学习。高中时，我参加了学校的计算机兴趣小组，学习了C语言和简单的算法。这段经历让我意识到，计算机不仅仅是工具，更是解决问题的艺术。2015年，我以优异的成绩考入大学，主修计算机科学与技术专业。那是我的梦想起点。
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+大学四年是我人生中最充实的时期。专业课程涵盖了从数据结构、算法设计到操作系统、数据库管理的方方面面。我特别喜欢人工智能和机器学习的相关课程，那时候AlphaGo击败人类围棋冠军的新闻让我热血沸腾。我参与了几个项目，比如用Python开发一个简单的聊天机器人，以及基于Java的校园管理系统。这些项目不仅巩固了我的理论知识，还让我学会了团队协作和问题调试。
 
-### 🌐 Internationalization
-- **Multi-language Support** - Real-time translation capabilities
-- **Auto Language Detection** - Detects user preferences automatically
-- **Client-side Translation** - Powered by Edge Translate technology
-- **10+ Languages Supported** - EN, ZH-CN, ZH-TW, JA, KO, ES, TH, VI, ID, TR
+毕业时，我获得了学士学位，GPA排名前10%。但我没有止步于此，我决定继续深造。2022年，我攻读了计算机科学硕士学位，专注于云计算和大数据方向。硕士期间，我的研究课题是“基于深度学习的图像识别优化”，这让我接触到了TensorFlow和PyTorch等框架。毕业论文被学校评为优秀，并有机会在一次学术会议上分享。这段经历让我从一个学生转变为一个初步具备研究能力的专业人士。
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+## 职业历程与工作经验
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+毕业后，我进入了职场。作为一个25岁的年轻人，我已经积累了三年的工作经验。第一份工作是在一家中型科技公司担任软件工程师，主要负责后端开发。我们使用Spring Boot框架构建企业级应用，我参与了从需求分析到上线部署的全过程。那时候，我每天面对的都是代码审查、bug修复和性能优化。记得有一次，系统负载高峰期崩溃了，我通宵调试，最终通过优化数据库查询解决了问题。那一刻的成就感，让我爱上了这份职业。
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+两年后，我跳槽到一家互联网巨头，担任AI开发工程师。这里的工作节奏更快，挑战更大。我负责的团队专注于自然语言处理（NLP）项目，比如开发聊天机器人和文本分析工具。我们使用了BERT模型来提升准确率，我亲自实现了从数据预处理到模型训练的pipeline。这份工作让我接触到了实际的生产环境，比如Kubernetes容器化和CI/CD管道。工作中，我还学习了DevOps工具，如Docker和Jenkins，这些技能让我在团队中脱颖而出。
 
----
+除了正式工作，我还有一些 freelance 项目。比如，我为一家初创公司开发了一个基于React的前端应用，以及一个使用Node.js的API服务。这些项目让我学会了全栈开发，也赚取了一些额外收入。更重要的是，它们让我保持了对新技术的好奇心。目前，我正在探索Web3和区块链技术，相信这将是未来的趋势。
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+## 我的技能与专长
+
+作为计算机科学与技术专业的从业者，我掌握了多种编程语言和工具。以下是我的核心技能列表：
+
+- **编程语言**：Python（熟练，用于数据分析和AI）、Java（后端开发）、JavaScript（前端和Node.js）、C++（算法实现）。
+- **框架与库**：Spring Boot、Django、React、TensorFlow、PyTorch、Scikit-learn。
+- **数据库**：MySQL、PostgreSQL、MongoDB（NoSQL）。
+- **云计算与DevOps**：AWS、Docker、Kubernetes、Git、Jenkins。
+- **其他技能**：算法与数据结构（LeetCode刷题达人）、软件工程原则（敏捷开发、TDD）、大数据工具（Hadoop、Spark）。
+
+我相信，技能不是一成不变的。我每周都会花时间学习新东西，比如最近在Coursera上完成了Andrew Ng的机器学习课程。未来，我计划获得AWS认证，以提升我的云架构能力。
+
+除了技术技能，我还注重软技能。沟通能力是我在团队项目中锻炼出来的，我喜欢用简洁的语言解释复杂概念。这在写博客时特别有用。另外，我有良好的时间管理习惯，使用Notion来规划任务，确保工作与生活平衡。
+
+## 个人兴趣与生活方式
+
+工作之外，我的生活丰富多彩。我热爱阅读，尤其是科技相关的书籍。《Clean Code》教会我写优雅的代码，《The Innovators》让我了解科技历史的脉络。最近在读《Sapiens》，它让我从更广的视角思考人类与技术的关系。
+
+运动是我的解压方式。每周我都会跑步5公里，或者打篮球。这不仅保持了身体健康，还让我在运动中思考问题。有时候，一个棘手的bug就是在跑步时灵光一闪解决的。
+
+我还喜欢旅行。去年，我去了日本，体验了东京的科技氛围，参观了秋叶原的电子市场。那里的创新精神让我深受启发。国内的话，我喜欢去山区徒步，感受大自然的宁静。
+
+音乐是我的另一个爱好。我会弹吉他，自学了一些流行曲目。周末时，我可能会在咖啡馆里弹唱，放松心情。另外，我是咖啡爱好者，喜欢自己研磨豆子冲泡，探索不同的风味。
+
+在社交方面，我活跃在各种在线社区，如Stack Overflow、Reddit的r/MachineLearning，以及国内的CSDN。我喜欢回答问题，也从中学到很多。开设这个博客，就是想把这些积累分享给大家。
+
+## 为什么开设这个博客？
+
+在25岁的年纪，我觉得自己还有很多东西要学，但也积累了一些经验值得分享。这个博客将聚焦于计算机科学与技术，包括教程、项目分享、科技新闻解读，以及个人感悟。
+
+最后，我想说，人生如代码，总有bug，但调试的过程就是成长。感谢你阅读到这里，如果你有任何建议或想合作，欢迎联系我！邮箱：[2567585172@qq.com](mailto:2567585172@qq.com)，或在评论区留言。
